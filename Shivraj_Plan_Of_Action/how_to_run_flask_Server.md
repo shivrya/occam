@@ -5,7 +5,7 @@ cd /Users/shivrajkhose/Downloads/occam/podman
 docker build -t occam_local .
 docker run -d -p 8080:80 --name occam_local occam_local
 
-![image.png](attachment:c78315e0-f695-4974-aaad-0e44ccb3f4af:image.png)
+<img width="1636" height="618" alt="image" src="https://github.com/user-attachments/assets/068c2f4a-748d-4412-96cc-ba72291891f1" />
 
 ![image.png](attachment:040091b0-f164-4945-8258-7d7155de9d5e:image.png)
 
