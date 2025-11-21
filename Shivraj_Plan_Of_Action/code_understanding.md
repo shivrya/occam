@@ -19,6 +19,8 @@
 6. podman/ builds deployment containers.
 7. docs/ documents the system.
 
+<img width="1270" height="1110" alt="image" src="https://github.com/user-attachments/assets/4365324e-a89f-4cad-8be0-adfdb01e2869" />
+
 ## Original System (CGI + Apache)
 - Entry Point: html/weboccam.cgi  
 - Backend: py/weboccam.py (Python 2.7)  
@@ -55,6 +57,9 @@ Goal: Replace Apache/CGI with a modern Flask server while keeping backend logic 
 - Updated html/index.html: Changed link from weboccam.cgi to /occam.
 - Updated html/switchform.html: Updated all onClick URLs from weboccam.cgi?... to /occam?... .
 - Updated py/jobcontrol.py: Updated kill-job links from weboccam.cgi?action=jobcontrol&pid=... to /occam?action=jobcontrol&pid=....
+
+<img width="1260" height="1156" alt="image" src="https://github.com/user-attachments/assets/712f2a53-0109-4b66-8fe7-bb0f816f2760" />
+
 
 ## Running Flask Version
 python3 -m venv venv  
