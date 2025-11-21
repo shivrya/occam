@@ -7,7 +7,8 @@ docker run -d -p 8080:80 --name occam_local occam_local
 
 <img width="1636" height="618" alt="image" src="https://github.com/user-attachments/assets/068c2f4a-748d-4412-96cc-ba72291891f1" />
 
-![image.png](attachment:040091b0-f164-4945-8258-7d7155de9d5e:image.png)
+<img width="1574" height="660" alt="image" src="https://github.com/user-attachments/assets/50343fbd-b108-48bf-8bd0-7e99accede58" />
+
 
 # Run From Python (Flask Version You Are Modifying)
 
@@ -27,6 +28,6 @@ python flask_occam.py
 Open your browser and go to:
 Main page: http://localhost:5002/
 
-![image.png](attachment:43bda1b9-ff8b-4a6d-a546-b17254776302:image.png)
+<img width="1548" height="634" alt="image" src="https://github.com/user-attachments/assets/1327c7dd-3022-43aa-b247-3a40c8f37383" />
 
-![image.png](attachment:5cfa24d5-405d-494e-b8c2-dc04824a9403:image.png)
+<img width="1496" height="554" alt="image" src="https://github.com/user-attachments/assets/646627e0-e632-402d-8f32-e9426ea78ddf" />
